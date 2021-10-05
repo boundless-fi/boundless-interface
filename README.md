@@ -1,8 +1,10 @@
-# YokaiSwap Exchange
+# Boundless Exchange
 
-YokaiSwap is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the Nervos's [Godwoken](https://github.com/nervosnetwork/godwoken) [Polyjuice](https://github.com/nervosnetwork/godwoken-polyjuice). It is fast, cheap, and allows anyone to participate.
+Boundless is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the Nervos's [Godwoken](https://github.com/nervosnetwork/godwoken) [Polyjuice](https://github.com/nervosnetwork/godwoken-polyjuice). It is fast, cheap, and allows anyone to participate.
 
 This repo is responsible for the **exchange** interface of the AMM.
+
+Along with a normal DEX, Boundless also features arbitrage bots as a service.
 
 ## Development
 
@@ -30,4 +32,4 @@ yarn build
 
 ---
 
-forked from [pancakeswap/pancake-swap-interface-v1](https://github.com/pancakeswap/pancake-swap-interface-v1)
+forked from [YokaiSwap/yokaiswap-interface](https://github.com/YokaiSwap/yokaiswap-interface)
