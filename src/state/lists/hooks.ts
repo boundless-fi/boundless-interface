@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@yokaiswap/sdk'
+import { ChainId, Token } from '@boundless-fi/sdk'
 import { Tags, TokenInfo, TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import { useSelector } from 'react-redux'

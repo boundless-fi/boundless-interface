@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@yokaiswap/sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@boundless-fi/sdk'
 import React from 'react'
 import { Button, Text } from '@yokaiswap/interface-uikit'
 import { TranslateString } from 'utils/translateTextHelpers'

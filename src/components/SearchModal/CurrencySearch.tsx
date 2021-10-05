@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@yokaiswap/sdk'
+import { Currency, ETHER, Token } from '@boundless-fi/sdk'
 import React, { KeyboardEvent, RefObject, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
 import { Text, CloseIcon } from '@yokaiswap/interface-uikit'
 import { useTranslation } from 'react-i18next'

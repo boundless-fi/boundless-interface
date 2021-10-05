@@ -1,5 +1,5 @@
 import React from 'react'
-import { Price } from '@yokaiswap/sdk'
+import { Price } from '@boundless-fi/sdk'
 import { SyncAltIcon, Text } from '@yokaiswap/interface-uikit'
 import { StyledBalanceMaxMini } from './styleds'
 

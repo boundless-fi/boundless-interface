@@ -1,4 +1,4 @@
-import { Percent } from '@yokaiswap/sdk'
+import { Percent } from '@boundless-fi/sdk'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

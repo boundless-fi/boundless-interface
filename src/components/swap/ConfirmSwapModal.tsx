@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@yokaiswap/sdk'
+import { currencyEquals, Trade } from '@boundless-fi/sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

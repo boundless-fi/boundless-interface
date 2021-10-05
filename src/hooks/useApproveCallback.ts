@@ -1,6 +1,6 @@
 import { MaxUint256 } from '@ethersproject/constants'
 import { TransactionResponse } from '@ethersproject/providers'
-import { Trade, TokenAmount, CurrencyAmount, ETHER, JSBI } from '@yokaiswap/sdk'
+import { Trade, TokenAmount, CurrencyAmount, ETHER, JSBI } from '@boundless-fi/sdk'
 import { useCallback, useMemo } from 'react'
 import { ROUTER_ADDRESS } from '../constants'
 import { useTokenAllowance } from '../data/Allowances'

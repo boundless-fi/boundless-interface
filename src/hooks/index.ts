@@ -1,5 +1,5 @@
 import { Web3Provider } from '@ethersproject/providers'
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 import { connectorLocalStorageKey } from '@yokaiswap/interface-uikit'
 import { useWeb3React as useWeb3ReactCore } from '@web3-react/core'
 // eslint-disable-next-line import/no-unresolved

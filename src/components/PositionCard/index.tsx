@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { JSBI, Pair, Percent } from '@yokaiswap/sdk'
+import { JSBI, Pair, Percent } from '@boundless-fi/sdk'
 import { Button, Card as UIKitCard, CardBody, Text } from '@yokaiswap/interface-uikit'
 import { darken } from 'polished'
 import { ChevronDown, ChevronUp } from 'react-feather'

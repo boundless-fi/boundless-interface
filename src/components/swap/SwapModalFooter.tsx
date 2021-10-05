@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@yokaiswap/sdk'
+import { Trade, TradeType } from '@boundless-fi/sdk'
 import React, { useMemo, useState } from 'react'
 import { Text, Button } from '@yokaiswap/interface-uikit'
 import { Repeat } from 'react-feather'

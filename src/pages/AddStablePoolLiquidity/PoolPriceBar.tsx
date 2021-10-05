@@ -1,5 +1,5 @@
 import React from 'react'
-import { Percent } from '@yokaiswap/sdk'
+import { Percent } from '@boundless-fi/sdk'
 import { Text } from '@yokaiswap/interface-uikit'
 import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'

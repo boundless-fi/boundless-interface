@@ -1,4 +1,4 @@
-import { Token } from '@yokaiswap/sdk'
+import { Token } from '@boundless-fi/sdk'
 import { transparentize } from 'polished'
 import { Button, Text } from '@yokaiswap/interface-uikit'
 import React, { useCallback, useMemo, useState } from 'react'

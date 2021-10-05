@@ -1,4 +1,4 @@
-import { Currency } from '@yokaiswap/sdk'
+import { Currency } from '@boundless-fi/sdk'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

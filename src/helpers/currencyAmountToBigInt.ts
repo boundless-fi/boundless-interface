@@ -1,4 +1,4 @@
-import { CurrencyAmount } from '@yokaiswap/sdk'
+import { CurrencyAmount } from '@boundless-fi/sdk'
 import bigInt, { BigInteger } from 'big-integer'
 
 export function currencyAmountToBigInt(amount: CurrencyAmount | undefined): BigInteger | undefined {

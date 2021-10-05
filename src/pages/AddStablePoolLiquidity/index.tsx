@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useMemo, useState } from 'react'
 import { BigNumber } from 'ethers'
 import { TransactionResponse } from '@ethersproject/providers'
-import { JSBI, Percent, TokenAmount } from '@yokaiswap/sdk'
+import { JSBI, Percent, TokenAmount } from '@boundless-fi/sdk'
 import { Button, CardBody, AddIcon, Text as UIKitText } from '@yokaiswap/interface-uikit'
 import { RouteComponentProps } from 'react-router-dom'
 import Card, { LightCard } from 'components/Card'

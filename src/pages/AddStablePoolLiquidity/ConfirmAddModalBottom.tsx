@@ -1,5 +1,5 @@
 import React from 'react'
-import { Currency, CurrencyAmount, Percent } from '@yokaiswap/sdk'
+import { Currency, CurrencyAmount, Percent } from '@boundless-fi/sdk'
 import { Button, Text } from '@yokaiswap/interface-uikit'
 import { TranslateString } from 'utils/translateTextHelpers'
 import { RowBetween, RowFixed } from '../../components/Row'

@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI, Percent, Price, Token, TokenAmount, Trade } from '@yokaiswap/sdk'
+import { CurrencyAmount, JSBI, Percent, Price, Token, TokenAmount, Trade } from '@boundless-fi/sdk'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { ArrowDown } from 'react-feather'
 import { CardBody, ArrowDownIcon, Button, IconButton, Text } from '@yokaiswap/interface-uikit'

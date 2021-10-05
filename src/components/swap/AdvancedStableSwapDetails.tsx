@@ -1,5 +1,5 @@
 import React from 'react'
-import { CurrencyAmount, Percent } from '@yokaiswap/sdk'
+import { CurrencyAmount, Percent } from '@boundless-fi/sdk'
 import { Card, CardBody, Text } from '@yokaiswap/interface-uikit'
 import useI18n from 'hooks/useI18n'
 import { AutoColumn } from '../Column'

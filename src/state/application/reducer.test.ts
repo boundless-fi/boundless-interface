@@ -1,4 +1,4 @@
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 import { createStore, Store } from 'redux'
 import { addPopup, removePopup, toggleSettingsMenu, toggleWalletModal, updateBlockNumber } from './actions'
 import reducer, { ApplicationState } from './reducer'

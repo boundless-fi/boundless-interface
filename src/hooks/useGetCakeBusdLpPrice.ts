@@ -1,7 +1,7 @@
 import { useCurrency } from 'hooks/Tokens'
 import { useTradeExactIn } from 'hooks/Trades'
 import { tryParseAmount } from 'state/swap/hooks'
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 
 const useGetCakeBusdLpPrice = () => {
   const cakeAddress =

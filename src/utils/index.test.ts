@@ -1,6 +1,6 @@
 import { BigNumber } from 'ethers'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@yokaiswap/sdk'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@boundless-fi/sdk'
 
 import {
   getBscScanLink,

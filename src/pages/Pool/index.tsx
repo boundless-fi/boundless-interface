@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Pair } from '@yokaiswap/sdk'
+import { Pair } from '@boundless-fi/sdk'
 import { Button, CardBody, Text } from '@yokaiswap/interface-uikit'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'
@@ -116,7 +116,7 @@ export default function Pool() {
               <div>
                 <Text fontSize="14px" style={{ padding: '.5rem 0 .5rem 0' }}>
                   {TranslateString(106, "Don't see a pool you joined?")}{' '}
-                  <StyledInternalLink id="import-pool-link" to="/find">
+                  <StyledInternalLink id="import-pool-link" to="/liquidity/find">
                     {TranslateString(108, 'Import it.')}
                   </StyledInternalLink>
                 </Text>

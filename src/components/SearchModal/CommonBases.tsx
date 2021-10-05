@@ -1,6 +1,6 @@
 import React from 'react'
 import { Text } from '@yokaiswap/interface-uikit'
-import { ChainId, Currency, currencyEquals, ETHER, Token } from '@yokaiswap/sdk'
+import { ChainId, Currency, currencyEquals, ETHER, Token } from '@boundless-fi/sdk'
 import styled from 'styled-components'
 
 import useI18n from 'hooks/useI18n'

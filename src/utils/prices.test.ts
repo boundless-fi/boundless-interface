@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@yokaiswap/sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@boundless-fi/sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

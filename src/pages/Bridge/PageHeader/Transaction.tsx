@@ -3,7 +3,7 @@ import { CheckmarkCircleIcon, ErrorIcon, Flex, Text, LinkExternal } from '@yokai
 import Loader from 'components/Loader'
 import { ILayer1TxHistory } from 'hooks/useLayer1TxHistory'
 import { getCKBExplorerLink } from 'utils'
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 import { useTxStatus } from 'hooks/useTxStatus'
 import { useActiveWeb3React } from 'hooks'
 import { useRefresh } from 'hooks/useRefresh'

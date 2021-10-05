@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 import { ThemeContext } from 'styled-components'
 import { Button, LinkExternal } from '@yokaiswap/interface-uikit'
 import { ArrowUpCircle } from 'react-feather'

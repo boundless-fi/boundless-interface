@@ -1,6 +1,6 @@
 // Set of helper functions to facilitate wallet setup
 
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 
 // import { BASE_BSC_SCAN_URL } from 'config'
 // import { nodes } from './getRpcUrl'

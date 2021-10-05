@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@yokaiswap/sdk'
+import { Currency, ETHER, Token } from '@boundless-fi/sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'CKB'

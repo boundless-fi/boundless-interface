@@ -1,5 +1,5 @@
 import { parseBytes32String } from '@ethersproject/strings'
-import { Currency, ETHER, Token, currencyEquals } from '@yokaiswap/sdk'
+import { Currency, ETHER, Token, currencyEquals } from '@boundless-fi/sdk'
 import { useMemo } from 'react'
 import { sudtIssuerLockHashByETHAddressByChain } from 'constants/sudt'
 import { SUDTToken } from 'helpers/SUDTToken'

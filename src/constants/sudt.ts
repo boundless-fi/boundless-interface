@@ -1,4 +1,4 @@
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 
 export interface ISUDTIssuerLockHashByETHAddress {
   [ethAddress: string]: string

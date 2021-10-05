@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from 'react'
-import { Currency, Pair, Token } from '@yokaiswap/sdk'
+import { Currency, Pair, Token } from '@boundless-fi/sdk'
 import { Button, ChevronDownIcon, Text } from '@yokaiswap/interface-uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'

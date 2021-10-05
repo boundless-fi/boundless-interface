@@ -1,4 +1,4 @@
-import { Currency } from '@yokaiswap/sdk'
+import { Currency } from '@boundless-fi/sdk'
 import { emptyScriptHash } from './ckb'
 
 export class SUDTCurrency extends Currency {

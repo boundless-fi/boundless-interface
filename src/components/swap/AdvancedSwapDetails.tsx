@@ -1,5 +1,5 @@
 import React from 'react'
-import { Trade, TradeType } from '@yokaiswap/sdk'
+import { Trade, TradeType } from '@boundless-fi/sdk'
 import { Card, CardBody, Text } from '@yokaiswap/interface-uikit'
 import useI18n from 'hooks/useI18n'
 import { Field } from '../../state/swap/actions'

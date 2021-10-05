@@ -1,5 +1,5 @@
 import React, { useCallback, useContext, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
-import { ChainId, ETHER } from '@yokaiswap/sdk'
+import { ChainId, ETHER } from '@boundless-fi/sdk'
 import { Text, Button, CardBody, AddIcon, LinkExternal } from '@yokaiswap/interface-uikit'
 import { AutoColumn, ColumnCenter } from 'components/Column'
 import { useActiveWeb3React } from 'hooks'

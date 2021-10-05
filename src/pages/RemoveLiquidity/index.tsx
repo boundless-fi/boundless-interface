@@ -1,7 +1,7 @@
 import React, { useCallback, useContext, useMemo, useState } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import { TransactionResponse } from '@ethersproject/providers'
-import { Currency, currencyEquals, ETHER, Percent, WETH } from '@yokaiswap/sdk'
+import { Currency, currencyEquals, ETHER, Percent, WETH } from '@boundless-fi/sdk'
 import { Button, Flex, Text } from '@yokaiswap/interface-uikit'
 import { ArrowDown, Plus } from 'react-feather'
 import { RouteComponentProps } from 'react-router'

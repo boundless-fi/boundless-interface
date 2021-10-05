@@ -1,5 +1,5 @@
 import { BigNumber } from 'ethers'
-import { Token, TokenAmount } from '@yokaiswap/sdk'
+import { Token, TokenAmount } from '@boundless-fi/sdk'
 import { useTokenContract } from '../hooks/useContract'
 import { useSingleCallResult } from '../state/multicall/hooks'
 

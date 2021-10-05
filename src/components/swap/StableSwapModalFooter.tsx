@@ -1,4 +1,4 @@
-import { CurrencyAmount, Percent, Price } from '@yokaiswap/sdk'
+import { CurrencyAmount, Percent, Price } from '@boundless-fi/sdk'
 import React, { useState } from 'react'
 import { Text, Button } from '@yokaiswap/interface-uikit'
 import { Repeat } from 'react-feather'

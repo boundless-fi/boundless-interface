@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@yokaiswap/sdk'
+import { Token, TokenAmount } from '@boundless-fi/sdk'
 import { BigInteger, zero } from 'big-integer'
 import { GodwokenBalancesContext } from 'contexts/Godwoken/contexts'
 import { SUDTTokenOrCurrency } from 'hooks/useSUDTCurrenciesWithBalance'

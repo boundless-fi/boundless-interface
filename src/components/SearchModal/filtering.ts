@@ -1,4 +1,4 @@
-import { Token } from '@yokaiswap/sdk'
+import { Token } from '@boundless-fi/sdk'
 import { SUDTTokenOrCurrency } from 'hooks/useSUDTCurrenciesWithBalance'
 import { isAddress } from '../../utils'
 

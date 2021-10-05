@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@yokaiswap/sdk'
+import { ChainId, Token } from '@boundless-fi/sdk'
 
 export type IStablePoolsMap = Readonly<{ [chainId in ChainId]: Readonly<IStablePool[]> }>
 

@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from '@yokaiswap/sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from '@boundless-fi/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from '@yokaiswap/interface-uikit'
 import CardNav from 'components/CardNav'

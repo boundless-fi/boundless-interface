@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useRef, useState } from 'react'
 import { Button, Text } from '@yokaiswap/interface-uikit'
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 import throttle from 'lodash/throttle'
 
 import { IntervalRefreshContext } from 'contexts/IntervalRefreshContext'

@@ -1,4 +1,4 @@
-import { Currency, Token } from '@yokaiswap/sdk'
+import { Currency, Token } from '@boundless-fi/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import useLast from '../../hooks/useLast'
 import { useSelectedListUrl } from '../../state/lists/hooks'

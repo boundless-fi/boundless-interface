@@ -4,7 +4,7 @@ import { AddressZero } from '@ethersproject/constants'
 import { JsonRpcSigner, Web3Provider } from '@ethersproject/providers'
 import { BigNumber } from 'ethers'
 import { abi as IUniswapV2Router02ABI } from '@uniswap/v2-periphery/build/IUniswapV2Router02.json'
-import { ChainId, JSBI, Percent, Token, CurrencyAmount, Currency, ETHER } from '@yokaiswap/sdk'
+import { ChainId, JSBI, Percent, Token, CurrencyAmount, Currency, ETHER } from '@boundless-fi/sdk'
 import { ROUTER_ADDRESS } from '../constants'
 import { TokenAddressMap } from '../state/lists/hooks'
 

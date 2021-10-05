@@ -1,7 +1,7 @@
 import { IStablePool, stablePools } from 'constants/stablePools'
 import { BigNumber, Contract } from 'ethers'
 import { useActiveWeb3React } from 'hooks'
-import { TokenAmount } from '@yokaiswap/sdk'
+import { TokenAmount } from '@boundless-fi/sdk'
 import { useEffect, useMemo, useState } from 'react'
 import { useSingleCallResult } from 'state/multicall/hooks'
 

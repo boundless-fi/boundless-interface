@@ -2,7 +2,7 @@ import {
   CurrencyAmount,
   // ETHER,
   // JSBI
-} from '@yokaiswap/sdk'
+} from '@boundless-fi/sdk'
 // import { MIN_ETH } from '../constants'
 
 /**

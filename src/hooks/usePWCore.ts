@@ -11,7 +11,7 @@ import PWCore, {
   ChainID as PWChainID,
 } from '@lay2/pw-core'
 import { useEffect, useState } from 'react'
-import { ChainId } from '@yokaiswap/sdk'
+import { ChainId } from '@boundless-fi/sdk'
 
 import {
   ckbRPCURL,

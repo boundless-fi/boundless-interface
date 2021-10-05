@@ -1,4 +1,4 @@
-import { Trade } from '@yokaiswap/sdk'
+import { Trade } from '@boundless-fi/sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex, Text } from '@yokaiswap/interface-uikit'

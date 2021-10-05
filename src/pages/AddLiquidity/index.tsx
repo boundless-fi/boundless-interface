@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState } from 'react'
 import { BigNumber } from 'ethers'
 import { TransactionResponse } from '@ethersproject/providers'
-import { Currency, currencyEquals, ETHER, Token, TokenAmount, WETH } from '@yokaiswap/sdk'
+import { Currency, currencyEquals, ETHER, Token, TokenAmount, WETH } from '@boundless-fi/sdk'
 import { Button, CardBody, AddIcon, Text as UIKitText } from '@yokaiswap/interface-uikit'
 import { RouteComponentProps } from 'react-router-dom'
 import { LightCard } from 'components/Card'

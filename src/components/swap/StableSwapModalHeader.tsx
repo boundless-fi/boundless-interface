@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
-import { CurrencyAmount, Percent } from '@yokaiswap/sdk'
+import { CurrencyAmount, Percent } from '@boundless-fi/sdk'
 import { Button, Text } from '@yokaiswap/interface-uikit'
 import { ArrowDown, AlertTriangle } from 'react-feather'
 import { isAddress, shortenAddress } from '../../utils'

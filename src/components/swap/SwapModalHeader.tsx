@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import styled, { ThemeContext } from 'styled-components'
-import { Trade, TradeType } from '@yokaiswap/sdk'
+import { Trade, TradeType } from '@boundless-fi/sdk'
 import { Button, Text } from '@yokaiswap/interface-uikit'
 import { ArrowDown, AlertTriangle } from 'react-feather'
 import { Field } from '../../state/swap/actions'

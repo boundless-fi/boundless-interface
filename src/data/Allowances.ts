@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@yokaiswap/sdk'
+import { Token, TokenAmount } from '@boundless-fi/sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from '../hooks/useContract'

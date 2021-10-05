@@ -1,9 +1,9 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@yokaiswap/sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@boundless-fi/sdk'
 
 export const ROUTER_ADDRESS =
   Number(process.env.REACT_APP_CHAIN_ID) === ChainId.GWTESTNET
-    ? '0x3Ef391dF0756Cb8da62856eFBb385aaC1F9AB40A'
-    : '0xBF5e941D64B542e532B972C6390Cee648CBfd76D'
+    ? '0x907963534fD8Db9D1ADAB0C31c3D444BFB5e8161'
+    : '0x907963534fD8Db9D1ADAB0C31c3D444BFB5e8161'
 
 // a list of tokens by chain
 type ChainTokenList = {
